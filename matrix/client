@@ -1,5 +1,8 @@
 {
-   "m.homeserver":{
-      "base_url":"matrix.jinx.pet"
-   }
+  "m.homeserver": {
+    "base_url": "matrix.jinx.pet"
+  },
+  "org.matrix.msc3575.proxy": {
+    "url": "matrix.jinx.pet"
+  }
 }
